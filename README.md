@@ -1,4 +1,6 @@
 
+
+![Logo](https://cdn-icons-png.flaticon.com/256/14989/14989102.png)
 # Task IT — Static Website (HTML + CSS)
 
 A simple static website built using only HTML and CSS. No frameworks. No JavaScript. Created purely for learning and practice.
@@ -39,4 +41,8 @@ Beginner-level UI styling
 ## Authors
 
 - [@mokshithakj](https://www.github.com/mokshithakj)
+
+
+![Logo](https://cdn-icons-png.flaticon.com/256/7039/7039059.png)
+
 
