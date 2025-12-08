@@ -1,10 +1,10 @@
-#Task IT — Static Website (HTML + CSS)
+# Task IT — Static Website (HTML + CSS)
 
 A simple static website built using only HTML and CSS.
 No frameworks. No JavaScript. Created purely for learning and practice.
 
 
-📌 ##What’s Included
+📌 ## What’s Included
 
 Basic webpage structure with HTML
 
@@ -13,7 +13,7 @@ Styling and layout using CSS
 Beginner-friendly, easy-to-read code
 
 
-🎯 ##What This Site Demonstrates
+🎯 ## What This Site Demonstrates
 
 A landing page design for a fictional productivity app called Task IT, showcasing:
 
@@ -29,7 +29,7 @@ A landing page design for a fictional productivity app called Task IT, showcasin
 
 🎯 Purpose
 
-##Practice:
+## Practice:
 
 Structure and spacing in layouts
 
